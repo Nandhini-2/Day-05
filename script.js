@@ -1,4 +1,4 @@
-//1. Circle - Class
+//2. Circle - Class
 
 class Circle{
     constructor(radius){
@@ -63,7 +63,7 @@ var circumference = c1.getCircimference();
 console.log("Circumference " + circumference);
 
 
-//2. 
+//1. 
 class Movie{
     constructor(name,studio,rating){
         this.name=name;
