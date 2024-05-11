@@ -1,4 +1,4 @@
-//2. Circle - Class
+//2. 
 
 class Circle{
     constructor(radius){
